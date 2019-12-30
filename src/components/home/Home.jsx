@@ -6,7 +6,7 @@ const Home = ()=>{
             <div className="Header">
                 <div className="Nav-Bar">
                     <div className="BrandLogo">
-                        <span> Ledger app</span>
+                        <span> Bank app</span>
                     </div>
                 </div>
             </div>
