@@ -1,6 +1,8 @@
 ### Banking App
-    A Banking react app that lets your page
+    A Banking react app that lets your Parents to check their child daily Transactions.
 
+# home 
+ - [ ] Navigation Page
 # Parents feature
 - [ ] Login
 - [ ] SignUp
